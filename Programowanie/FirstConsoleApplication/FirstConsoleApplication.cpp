@@ -111,10 +111,10 @@ void task7()
     std::cout << "Podaj pierwszą podstawe";
     std::cin >> base1;
     std::cout << "Podaj drugą podstawe";
-    std::cin >> base2:
-    std::cout << "Podaj wysokość"
-    std::cin >> height
-    std::cout << "Pole trapezu wynosi" 
+    std::cin >> base2;
+    std::cout << "Podaj wysokość";
+    std::cin >> height;
+    std::cout << "Pole trapezu wynosi";
 
 
 
