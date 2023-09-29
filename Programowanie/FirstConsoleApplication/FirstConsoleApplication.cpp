@@ -115,12 +115,6 @@ void task7()
     std::cout << "Podaj wysokość";
     std::cin >> height;
     std::cout << "Pole trapezu wynosi";
-
-
-
-
-
-
-
-
+    std::cin >> "Pole trapezu wynosi:" (base1 + base2) * height / 2;
 }
+//--------------------------------------------
