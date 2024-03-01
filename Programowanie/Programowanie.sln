@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 StructConsoleApplication
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StructConsoleApplication", "StructConsoleApplication\StructConsoleApplication.vcxproj", "{7088FF16-209F-4EEC-AA79-531A8F32068B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{D098E24C-B68C-423C-A65E-62D57CF1FB43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
